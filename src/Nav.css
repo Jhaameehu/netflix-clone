@@ -1,0 +1,13 @@
+.nav {
+  position: fixed;
+  top: 0;
+  display: flex;
+  padding-top: 10px;
+  padding-left: 20px;
+
+}
+
+.navLogo {
+  width: 80px;
+  object-fit: contain;
+}
